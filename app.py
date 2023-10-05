@@ -75,7 +75,14 @@ def check_emails():
                     continue
 
                 if email_subject == "MCDPS CAD MESSAGE":
-                    parsed_data = email_parser.parser(body_content)
+                    metadata = {
+                        "from": message.get("From"),
+                        "to": message.get("To"),
+                        "bcc": message.get("Bcc"),
+                        "date": message.get("Date"),
+                        "subject": message.get("Subject")
+                    }
+                    parsed_data = email_parser.parser(body_content, metadata)
                     print(parsed_data)
 
                     return parsed_data
@@ -84,21 +91,21 @@ def check_emails():
             imap_ssl.close()
 
         # Updating the last processed mail ID
-        if mail_ids:
-            last_processed_id = int(mail_ids[0].decode().split()[-1])
-            print(f"Last processed mail ID: {last_processed_id}")
-            # return last_processed_id
+        # if mail_ids:
+        #     last_processed_id = int(mail_ids[0].decode().split()[-1])
+        #     print(f"Last processed mail ID: {last_processed_id}")
+        #     # return last_processed_id
     except Exception as e:
-        print(traceback.print_stack())
-        return str(e)
-
-
-
+        print(f"Exception occurred: {e}")
+        traceback.print_exc()
+        return {"error": str(e)}
 
 
 @app.route('/check-emails', methods=['GET'])
 def trigger_check_emails():
     result = check_emails()
+    if result is None:
+        result = {"error": "No emails found."}
     return jsonify(result)
 
 

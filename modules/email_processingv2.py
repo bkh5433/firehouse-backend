@@ -88,7 +88,7 @@ def parser(email_content, metadata=None):
     # Combine all data into the desired JSON structure
     result = {
         "type": email_type,
-        # "metadata": metadata,
+        "metadata": metadata,
         "incident": incident_data,
         "units": units,
         "event_comments": event_comments
