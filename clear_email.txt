@@ -1,0 +1,75 @@
+  ------ Clear Report v1.5JG ------                      INCIDENT: F2325884
+Incident Received: 09-19-2023 16:41:15 Call Source: PHONE
+Incident Closed: **STILL OPEN**
+First Unit Onscene: 00:06:00
+Time In Service: NOT FOUND
+CODE: FBL-BUILDING FIRE NON-COMMERCIAL[F1]
+1444 PEPPER RD
+Cross Street: WASHINGTON LN AND NOBLE RD
+Map: 29-E4 Plan: ESZ: 29010 MUN: ABGN
+UNIT DISPATCH RESPOND ON-SCENE TRANSPORT AT HOSP. AVAILABLE MILES
+
+382-6 16:41:54 16:43:07 16:47:03 --:--:-- --:--:-- 17:45:20
+383-8 16:55:31 16:56:09 17:09:11 --:--:-- --:--:-- 17:36:48
+AC381 16:46:25 16:46:36 16:53:27 --:--:-- --:--:-- 17:45:21
+AC400 16:52:11 --:--:-- 16:52:12 --:--:-- --:--:-- 17:43:09
+AC500 16:49:05 16:49:06 16:54:12 --:--:-- --:--:-- 17:50:38
+AC8 17:02:45 17:02:46 17:19:21 --:--:-- --:--:-- 18:13:24
+AIR300 16:45:41 16:52:22 16:58:52 --:--:-- --:--:-- 17:57:34
+CH100 16:43:26 16:43:27 --:--:-- --:--:-- --:--:-- 18:11:12
+CH88 17:10:21 17:10:22 --:--:-- --:--:-- --:--:-- 18:13:23
+CT10 16:47:04 16:47:05 16:55:15 --:--:-- --:--:-- 17:42:24
+DC300 16:45:02 16:45:03 16:50:26 --:--:-- --:--:-- 18:10:42
+E200 16:41:42 --:--:-- --:--:-- --:--:-- --:--:-- 17:42:16
+E300-2 16:41:42 --:--:-- --:--:-- --:--:-- --:--:-- 17:42:32
+E300-3 16:41:42 16:44:52 16:50:16 --:--:-- --:--:-- 18:10:40
+E400 16:46:15 16:46:16 16:52:47 --:--:-- --:--:-- 17:43:09
+E8 17:01:03 17:02:37 17:19:19 --:--:-- --:--:-- 18:13:24
+E96-1 16:41:43 16:46:47 16:50:22 --:--:-- --:--:-- 17:50:32
+FM25 17:00:36 --:--:-- 17:00:37 --:--:-- --:--:-- 18:03:55
+FM29 16:47:14 --:--:-- 16:47:15 --:--:-- --:--:-- --:--:--
+FMX29 16:45:41 --:--:-- --:--:-- --:--:-- --:--:-- 16:46:38
+L100 16:41:42 16:45:21 16:48:50 --:--:-- --:--:-- 18:11:12
+NC382 16:55:31 --:--:-- --:--:-- --:--:-- --:--:-- 16:56:34
+OF380 16:55:36 --:--:-- --:--:-- --:--:-- --:--:-- 16:56:36
+P400 16:41:43 --:--:-- --:--:-- --:--:-- --:--:-- 17:42:59
+QT10 16:46:56 16:47:27 16:55:12 --:--:-- --:--:-- 17:42:23
+QT16 17:01:02 --:--:-- --:--:-- --:--:-- --:--:-- 17:03:44
+QT200 16:41:42 16:48:41 16:54:22 --:--:-- --:--:-- 17:42:32
+R300 16:41:42 16:46:27 --:--:-- --:--:-- --:--:-- 17:42:16
+SD10 16:45:41 --:--:-- --:--:-- --:--:-- --:--:-- 17:42:23
+SD100 16:41:42 16:47:53 16:52:33 --:--:-- --:--:-- 18:11:11
+SD200 16:41:42 16:57:56 --:--:-- --:--:-- --:--:-- 17:42:16
+SD500 16:45:41 16:49:00 16:54:08 --:--:-- --:--:-- 17:50:38
+SN82 16:49:53 --:--:-- --:--:-- --:--:-- --:--:-- 17:00:42
+TAC100 16:59:05 16:59:06 --:--:-- --:--:-- --:--:-- 18:11:12
+TW500 16:49:53 --:--:-- --:--:-- --:--:-- --:--:-- 17:00:42
+TW88 17:08:41 17:21:01 17:35:44 --:--:-- --:--:-- 18:13:23
+Event Comments:
+
+16:41 CALLER IS SAYING SOMETHING UPSTAIRS IS ON FIRE
+16:41 CALLER BELIEVES IT IS IN THE ROOF SOMEWHERE
+16:41 EVACUATING
+16:42 CALLER SEES SMOKE COMING OUT OF THE SIDE OF THE HOUSE FROM THE ROOF
+16:45 2925 - THERE IS SMOKE CONDITION COMING FROM THE SIDE OF THE ROOF
+16:46 -- page to 100 200 300 400 96 -- Note: PD REPORTS SMOKE SHOWING FROM SIDE OF THE ROOF
+16:47 382-6 -- Arrive E/M: 3772.4
+16:48 OK ON PECO, WITHIN THE HR
+16:49 SN82 and TW500 DISPATCHED TO RELOCATE TO STA100
+16:50 CH100 -- IN COMMAND
+16:51 -- page to 100 200 300 400 96 -- Note: OPERATE ON FIRE OPS 5 PER CMD
+16:51 CMD, CONFIRMED ATTIC FIRE
+16:55 AC381 -- ANOTHER TRUCK TO STAGE AT RYDAL / PEPPER
+16:56 ok on rydal and pepper
+16:57 SN82 and TW500 RESPONSE CHECKED / NO RESPONSE
+16:59 AIR300- AT PEPPER/RYDAL
+17:00 CH100 -- ADVISED OF 10-MINUTE MARK
+17:00 E8 and QT16 DISPATCHED TO RELOCATE TO STA100
+17:01 CH16, COVER QT16
+17:02 L1 DISPATCHED TO RELOCATE TO STA100
+17:04 DISREGARD ABOVE L1 OOS
+17:07 CH100 -- ** FIRE UNDER CONTROL **
+17:07 CMD, PECO ON LOC
+17:08 TW88 DISPATCHED TO RELOCATE TO STA100
+17:09 383-8 -- Arrive E/M: 38720.8
+18:13 CH100 -- RELEASE STANDBYS
