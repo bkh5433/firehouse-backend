@@ -1,4 +1,4 @@
-from modules import email_processingv2 as email_parser
+from modules import email_parser
 from firebase_utils import firebase_handler as firebase
 from flask import jsonify
 import traceback
@@ -112,8 +112,8 @@ def check_emails():
     print("Logging into mailbox...")
     response_code, response = imap_ssl.login(user_email, user_password)
 
-    print("Response Code :", response_code)
-    print("Response      :", response[0].decode())
+    print("Response Code: ", response_code)
+    print("Response: ", response[0].decode())
 
     # Select the mailbox (Inbox by default)
     imap_ssl.select('INBOX')
