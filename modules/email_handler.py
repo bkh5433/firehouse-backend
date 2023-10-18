@@ -157,6 +157,7 @@ def check_emails():
 
     return {"status": f"Successfully processed incident {report_id} and pushed to Firebase!",
             "firebase_id": report_id,
+            "data": parsed_data,
 
             }
 
